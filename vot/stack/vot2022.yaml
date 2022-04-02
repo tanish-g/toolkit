@@ -1,5 +1,5 @@
 title: VOT-ST2022 bounding-box challenge
-dataset: vot:vot-st2022
+dataset: https://data.votchallenge.net/vot2022/stb/description.json
 url: https://www.votchallenge.net/vot2022/
 experiments:
   baseline:
